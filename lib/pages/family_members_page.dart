@@ -63,7 +63,7 @@ class FamilyMembersPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: appBarWidget("Color"),
+      appBar: appBarWidget("Family Members"),
       body: ListView.separated(
         separatorBuilder: (context, index) => Container(
           color: Colors.pink,
