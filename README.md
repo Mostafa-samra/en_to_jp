@@ -4,6 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
+![alt text](https://github.com/Mostafa-samra/en_to_jp/blob/main/assets/ui_ux/home.png?raw=true)
+![alt text](https://github.com/Mostafa-samra/en_to_jp/blob/main/assets/ui_ux/number_ui.png?raw=true)
+![alt text](https://github.com/Mostafa-samra/en_to_jp/blob/main/assets/ui_ux/color_ui.png?raw=true)
+![alt text](https://github.com/Mostafa-samra/en_to_jp/blob/main/assets/ui_ux/family_members_ui.png?raw=true)
+![alt text](https://github.com/Mostafa-samra/en_to_jp/blob/main/assets/ui_ux/phrases_ui.png?raw=true)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
