@@ -9,6 +9,12 @@ A new Flutter project.
 ![alt text](https://github.com/Mostafa-samra/en_to_jp/blob/main/assets/ui_ux/color_ui.png?raw=true)
 ![alt text](https://github.com/Mostafa-samra/en_to_jp/blob/main/assets/ui_ux/family_members_ui.png?raw=true)
 ![alt text](https://github.com/Mostafa-samra/en_to_jp/blob/main/assets/ui_ux/phrases_ui.png?raw=true)
+
+
+### Using libaryry :
+ audioplayers: ^5.2.1
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
